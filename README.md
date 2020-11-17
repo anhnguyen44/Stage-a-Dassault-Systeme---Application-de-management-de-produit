@@ -9,4 +9,4 @@ persister les données localement permettant de lancer modèle 3D
 sans être mise sur un serveur dans le page aperçu de modèle produit.
 
  Technologies: ReactJS, Redux, NodeJS, MySQL, Service Worker,
-Webpack
+Webpack, ExpressJS, RestfullAPI
